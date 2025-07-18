@@ -417,6 +417,10 @@ npm install
 -   **React Native Documentation**: [reactnative.dev](https://reactnative.dev)
 -   **Community Forums**: [forums.expo.dev](https://forums.expo.dev)
 
+## 🎯 Application download and test
+You can download the APK version using [this link](https://drive.google.com/file/d/1ozvIk4E0iE9aOpbe9u4RevhRmpe1QZcO/view?usp=drive_link)
+
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
